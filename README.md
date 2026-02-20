@@ -6,8 +6,6 @@
 <p align="left">✨ Sigma man<br>📚 I`m curently still learning</p>
 
 ####
- ###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZackaryCandra/ZackaryCandra/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZackaryCandra/ZackaryCandra/output/pacman-contribution-graph.svg">
